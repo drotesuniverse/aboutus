@@ -19,9 +19,9 @@ export default function Header() {
 
                 {/* Left: Visible Navigation (Desktop) */}
                 <nav className="hidden md:flex items-center gap-8 font-medium text-xs tracking-[0.2em] uppercase text-stone flex-1">
-                    <Link href="/" className="hover:text-ash transition-colors">Home</Link>
-                    <Link href="/shop" className="hover:text-ash transition-colors">Shop</Link>
-                    <Link href="/shop" className="hover:text-ash transition-colors">Collection</Link>
+                    <Link href="https://www.drotes.com" className="hover:text-ash transition-colors">Home</Link>
+                    <Link href="https://www.drotes.com/shop" className="hover:text-ash transition-colors">Shop</Link>
+                    <Link href="https://www.drotes.com/shop" className="hover:text-ash transition-colors">Collection</Link>
                 </nav>
 
                 {/* Center: Logo */}
